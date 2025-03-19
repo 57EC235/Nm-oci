@@ -1,0 +1,16 @@
+/* Add some basic styling */
+.container {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.search-bar {
+    margin-bottom: 20px;
+}
+
+.weather-info {
+    text-align: center;
+}
